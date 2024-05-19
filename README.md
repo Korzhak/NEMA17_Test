@@ -18,7 +18,7 @@
 
 **Libraries**
 
-* EPS32 in ArduinoIDE
+* ESP32 in ArduinoIDE
 
 ## Project Setup
 
