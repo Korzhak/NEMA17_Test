@@ -32,7 +32,7 @@
 
 * Connect Laboratory power supply to DRV: `+ - VMOT`, `- - GNDMOT`
 
-   ![](img/nema17_wroom32.jpg)
+   ![](img/nema17_wroom32.bmp)
 
 ## WARNING!
 
